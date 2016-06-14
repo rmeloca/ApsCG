@@ -1,5 +1,0 @@
-# depslib dependency file v1.0
-1405974466 source:d:\dropbox\utfpr\disciplinas\2015\2 semestre\bcc35f - computação gráfica\slides\10 - iluminação\códigos slides\windows\exemplo1\main.c
-	<windows.h>
-	<GL/glut.h>
-
